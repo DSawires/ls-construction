@@ -75,7 +75,7 @@ const PROJECTS = [
         folder: "giza-palace",
         scope: ["Rooms", "Restaurants", "Meeting Rooms", "Ballroom"],
         featured: true,
-        galleryCount: 0
+        galleryCount: 10
     },
     {
         id: 6,
